@@ -1,5 +1,4 @@
 &Ads_DFP=
-&UrlAdParam=
 &adType=PREROLL&
 &ad_box_
 &ad_channel=
